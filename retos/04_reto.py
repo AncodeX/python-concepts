@@ -13,7 +13,6 @@ it_companies.append("Microsoft")
 it_companies.insert(int(len(it_companies)/2), "OpenAI")
 print(it_companies)
 
-
 company = "Google"
 it_companies = list(map(lambda c: c.upper() if c == company else c, it_companies))
 
