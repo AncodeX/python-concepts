@@ -72,6 +72,10 @@ instance/
 # Scrapy stuff:
 .scrapy
 
+# Pipenv
+Pipfile
+Pipfile.lock
+
 # Sphinx documentation
 docs/_build/
 
